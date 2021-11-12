@@ -1,0 +1,16 @@
+.body {
+  zoom: 50%;
+}
+
+.panel {
+  margin-top: 10px;
+}
+
+.table-reponsive {
+  overflow-x: auto
+}
+
+#submitTable {
+  margin: 5px;
+  width: 100px;
+}
